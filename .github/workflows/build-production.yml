@@ -32,4 +32,4 @@ jobs:
           password: ${{ secrets.ACR_PASSWORD }}
           registry: ${{ secrets.ACR_NAME }}
           repository: contoso-website
-		      tag_with_ref: true
+          tag_with_ref: true
