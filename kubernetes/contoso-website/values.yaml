@@ -1,0 +1,8 @@
+image:
+  repository: ContosoContainerRegistry30451
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: dffd95049fca451db2cf.eastus.aksapp.io
+
